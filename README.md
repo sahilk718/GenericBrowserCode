@@ -1,0 +1,2 @@
+# GenericBrowserCode
+Code for Browser
